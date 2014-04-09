@@ -1,0 +1,11 @@
+Debug/
+osgPlugins-3.0.1/
+Release
+*.dll
+*.pdb
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.txt
+*.exe
+*.log
